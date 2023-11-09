@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Foodify/static/css/main.c8a84c25.css",
+    "main.js": "/Foodify/static/js/main.998ef28f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Foodify/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Foodify/index.html",
+    "main.c8a84c25.css.map": "/Foodify/static/css/main.c8a84c25.css.map",
+    "main.998ef28f.js.map": "/Foodify/static/js/main.998ef28f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Foodify/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a84c25.css",
+    "static/js/main.998ef28f.js"
+  ]
+}
